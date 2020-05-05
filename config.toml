@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hamptonsmith.github.io/deep-ford/"
 languageCode = "en-us"
 title = "Deep Ford FATE"
 [markup]
@@ -7,4 +7,3 @@ title = "Deep Ford FATE"
     [markup.goldmark.renderer]
       unsafe = true
 publishDir = "docs"
-baseURL = "https://hamptonsmith.github.io/deep-ford/"
