@@ -6,3 +6,5 @@ title = "Deep Ford FATE"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+publishDir = "docs"
+
