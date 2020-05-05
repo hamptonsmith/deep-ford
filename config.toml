@@ -1,9 +1,9 @@
 baseURL = "https://hamptonsmith.github.io/deep-ford/"
 languageCode = "en-us"
 title = "Deep Ford FATE"
+publishDir = "docs"
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-publishDir = "docs"

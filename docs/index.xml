@@ -1,6 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Where to start on Deep Ford FATE</title><link>https://hamptonsmith.github.io/deep-ford/</link><description>Recent content in Where to start on Deep Ford FATE</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://hamptonsmith.github.io/deep-ford/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://hamptonsmith.github.io/deep-ford/docs/character-creation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hamptonsmith.github.io/deep-ford/docs/character-creation/</guid><description>Quick Character Creation Required Come up with two permanent aspects: a high concept and a trouble.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Where to start on Deep Ford FATE</title>
+    <link>https://hamptonsmith.github.io/deep-ford/</link>
+    <description>Recent content in Where to start on Deep Ford FATE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hamptonsmith.github.io/deep-ford/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://hamptonsmith.github.io/deep-ford/docs/character-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hamptonsmith.github.io/deep-ford/docs/character-creation/</guid>
+      <description>Quick Character Creation Required   Come up with two permanent aspects: a high concept and a trouble.
 Your high concept should be a classic character archetype. Since we’re at a supernatural college, those might be “vampire with a chip on her shoulder,” or “over-achieving warlock”.
-Your trouble should be something that complicates your life. “Pursued by circus folk,” “Only keeping it together with ritual magic”, and “Can’t say no to a pretty face” are examples.</description></item><item><title/><link>https://hamptonsmith.github.io/deep-ford/docs/setting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hamptonsmith.github.io/deep-ford/docs/setting/</guid><description>Setting Vampires are real, of course. And ghosts and psychics and aliens. Those oddity shops supposedly built on ley lines where water runs uphill and two-headed cows are in jars? Ok, those aren’t real. But the ley lines are. And the owners probably do know someone with two heads.
-But the earth is for the normals. Can’t have panic in the streets. And like most countries, America crawls from sea to shining sea with hunters, Pinkertons, and g-persons who harass and persecute the monsters to stay under the bed and keep the magical violence to a minimum.</description></item><item><title/><link>https://hamptonsmith.github.io/deep-ford/docs/trouble/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hamptonsmith.github.io/deep-ford/docs/trouble/</guid><description>Some Trouble You Might Get Up To Nobody’s heard from Cayce Library since before last summer. Officially it’s closed for renovation, but they don’t usually post twenty-four-hour campus security to guard construction sites. Well, not since they finished the Sexual Magic Department’s new parking lot a few years ago. Some enterprising students who wanted to get the scoop, or just spend a spooky night camped out in a weird old building, might take it upon themselves to break in and investigate.</description></item><item><title>FATE for D&amp;D Players</title><link>https://hamptonsmith.github.io/deep-ford/docs/fate-for-dnd-players/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hamptonsmith.github.io/deep-ford/docs/fate-for-dnd-players/</guid><description>FATE Cheatsheet for D&amp;amp;D Players The complete FATE Core rulebook is available here for pay-what-you-want.
+Your trouble should be something that complicates your life. “Pursued by circus folk,” “Only keeping it together with ritual magic”, and “Can’t say no to a pretty face” are examples.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hamptonsmith.github.io/deep-ford/docs/setting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hamptonsmith.github.io/deep-ford/docs/setting/</guid>
+      <description>Setting Vampires are real, of course. And ghosts and psychics and aliens. Those oddity shops supposedly built on ley lines where water runs uphill and two-headed cows are in jars? Ok, those aren’t real. But the ley lines are. And the owners probably do know someone with two heads.
+But the earth is for the normals. Can’t have panic in the streets. And like most countries, America crawls from sea to shining sea with hunters, Pinkertons, and g-persons who harass and persecute the monsters to stay under the bed and keep the magical violence to a minimum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hamptonsmith.github.io/deep-ford/docs/trouble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hamptonsmith.github.io/deep-ford/docs/trouble/</guid>
+      <description>Some Trouble You Might Get Up To  Nobody’s heard from Cayce Library since before last summer. Officially it’s closed for renovation, but they don’t usually post twenty-four-hour campus security to guard construction sites. Well, not since they finished the Sexual Magic Department’s new parking lot a few years ago. Some enterprising students who wanted to get the scoop, or just spend a spooky night camped out in a weird old building, might take it upon themselves to break in and investigate.</description>
+    </item>
+    
+    <item>
+      <title>FATE for D&amp;D Players</title>
+      <link>https://hamptonsmith.github.io/deep-ford/docs/fate-for-dnd-players/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hamptonsmith.github.io/deep-ford/docs/fate-for-dnd-players/</guid>
+      <description>FATE Cheatsheet for D&amp;amp;D Players The complete FATE Core rulebook is available here for pay-what-you-want.
 Example character sheet here.
-Aspects An aspect is a short, publicly-established English phrase that describes a reality about a character, location, or situation. Aspects can be gained and lost. Some are permanent and some are temporary. “Can’t turn down a bet,” “Runs like a dream if you can get it into gear,” “Full of bats,” and “Weighed down by books” are examples of aspects.</description></item></channel></rss>
+Aspects An aspect is a short, publicly-established English phrase that describes a reality about a character, location, or situation. Aspects can be gained and lost. Some are permanent and some are temporary. “Can’t turn down a bet,” “Runs like a dream if you can get it into gear,” “Full of bats,” and “Weighed down by books” are examples of aspects.</description>
+    </item>
+    
+  </channel>
+</rss>
