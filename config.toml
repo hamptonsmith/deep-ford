@@ -2,6 +2,7 @@ baseURL = "https://hamptonsmith.github.io/deep-ford/"
 languageCode = "en-us"
 title = "Deep Ford FATE"
 publishDir = "docs"
+theme="book"
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
