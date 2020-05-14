@@ -8,5 +8,8 @@
 
 -----
 
-> A number of students just… aren’t… acting… right.  They seem forgetful and listless, staring into space and muttering to themselves.  Everybody has a class with one of these people, or knows one through a friend.  Pair that with rumors of students who narrowly escaped attacks on campus late at night, and some folks might decide that a Student Action Committee is needed to do what the Administration will not.
+> Now that the Star Essence Crystal Wand has been found and turned over to the administration, spaced-out students are fixed as fast as they're created, but Queen Void continues to ambush students at night in search of the Blood Space Countess' hidden daughter.  The administration and the g-persons insist they're on top of it, but nobody has seen any concrete action.  A banned student group, Students Against The Void, is meeting in secret to coordinate countermeasures and those interested in space politics or ninja fights may find themselves swept up.
 
+-----
+
+> Upsilon Phi Omega National Alien Coed Greek Organization is hosting a bake sale!  Proceeds will be given in pitiful and unworthy tribute to the Blood Space Countess, who's frankly pretty annoyed the brothers, sisters, and non-binary-en of U-Phi-O permitted Queen Void to infiltrate their organization.  Volunteers are needed to handle petty cash, donate tasty goods, and keep hovering g-persons and Royal Space Guards from killing each other during this time of heightened tension.
