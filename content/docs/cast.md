@@ -21,7 +21,7 @@ _Are these hallucinations becoming manifest or am I just freaking crazy?_
 
 Affiliations: _Deep Ford College_ (Student)
 
-Species: _Human/chtonian hybrid_
+Species: _Human/chthonian hybrid_
 
 ## Ray von Piers (Sebastian Ebert)
 Bodybuilder-wannabe Vampire
