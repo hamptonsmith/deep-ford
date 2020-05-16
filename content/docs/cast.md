@@ -36,6 +36,8 @@ _Aggressively competitive_
 
 Species: _Werewolf_
 
+Part of Ray's bodybuilding crew
+
 ## Ayesha Bruce
 ???
 
@@ -51,6 +53,8 @@ Bodybuilding ifrit
 _Tiresomely positive_
 
 Species: _Ifrit_
+
+Part of Ray's bodybuilding crew
 
 ## Cynthia Brown
 Cheerleading Vampire
@@ -92,6 +96,8 @@ Bodybuilding alien
 _Health freak_
 
 Species: _Humanoid Alien_
+
+Part of Ray's bodybuilding crew
 
 ## Kelly Dunn
 Sssssstudent Health Sssssservices
