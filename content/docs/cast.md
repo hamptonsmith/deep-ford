@@ -68,7 +68,7 @@ Former Queen Void victim
 
 ???
 
-Affiliations: _Deep Ford College_ (Guest lecturer), _G-Person_ (Former)
+Affiliations: _Deep Ford College_ (Guest lecturer, Department of Generalized Abstract Unifications), _G-Person_ (Former)
 
 Teaches "What even is real, man?"
 
