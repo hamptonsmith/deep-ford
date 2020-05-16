@@ -34,6 +34,8 @@ Bodybuilding werewolf
 
 _Aggressively competitive_
 
+Affiliations: _Deep Ford College_ (Student)
+
 Species: _Werewolf_
 
 Part of Ray's bodybuilding crew
@@ -43,7 +45,7 @@ Part of Ray's bodybuilding crew
 
 ???
 
-Affiliations: _Chemistry Club_ (Member)
+Affiliations: _Chemistry Club_ (Member), _Deep Ford College_ (Student)
 
 Nobody's seen her in a while
 
@@ -51,6 +53,8 @@ Nobody's seen her in a while
 Bodybuilding ifrit
 
 _Tiresomely positive_
+
+Affiliations: _Deep Ford College_ (Student)
 
 Species: _Ifrit_
 
@@ -61,7 +65,7 @@ Cheerleading Vampire
 
 _Type-A about her Type-A_
 
-Affiliations: _The Figurines Pep Squad_ (Head Cheerleader)
+Affiliations: _Deep Ford College_ (Student), _The Figurines Pep Squad_ (Head Cheerleader)
 
 Species: _Vampire_
 
@@ -81,12 +85,14 @@ Insufferable warg
 
 _Can't turn down an opportunity to prove himself_
 
+Affiliations: _Deep Ford College_ (Student)
+
 ## Gwendolyn Haydle
 Peppy Alien
 
 _Life of the party_
 
-Affiliations: _Upsilon Phi Omega_ (President)
+Affiliations: _Deep Ford College_ (Student), _Upsilon Phi Omega_ (President)
 
 Species: _Humanoid Alien_
 
@@ -94,6 +100,8 @@ Species: _Humanoid Alien_
 Bodybuilding alien
 
 _Health freak_
+
+Affiliations: _Deep Ford College_ (Student)
 
 Species: _Humanoid Alien_
 
@@ -113,6 +121,8 @@ Shy mimic
 
 _Can only be people she can see_
 
+Affiliations: _Deep Ford College_ (Student)
+
 Friend of Sarah Amherst
 
 Occasional life model for the art department
@@ -131,6 +141,8 @@ Teaches "Warging and Land Stewardship"
 
 ???
 
+Affiliations: _Deep Ford College_ (Student)
+
 Former Chelsea victim
 
 Former Queen Void victim
@@ -140,7 +152,7 @@ Dry Alien
 
 _Confuses roasting for friendship_
 
-Affiliations: _Upsilon Phi Omega_ (Member)
+Affiliations: _Deep Ford College_ (Student), _Upsilon Phi Omega_ (Member)
 
 Species: _Humanoid Alien_
 
@@ -149,7 +161,7 @@ Awkard Alien
 
 _Says everything he's thinking_
 
-Affiliations: _Upsilon Phi Omega_ (Member)
+Affiliations: _Deep Ford College_ (Student), _Upsilon Phi Omega_ (Member)
 
 Species: _Humanoid Alien_
 
