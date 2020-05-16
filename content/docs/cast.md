@@ -10,15 +10,27 @@ Untamed Pooka
 
 _No concept of what's appropriate_
 
+Affiliations: _Deep Ford College_ (Student)
+
+Species: _Pooka_
+
 ## Devin (Anthony Roesch)
 Psionic human/chthonian hybrid (product of a clandestine government experiment)
 
 _Are these hallucinations becoming manifest or am I just freaking crazy?_
 
+Affiliations: _Deep Ford College_ (Student)
+
+Species: _Human/chtonian hybrid_
+
 ## Ray von Piers (Sebastian Ebert)
 Bodybuilder-wannabe Vampire
 
 _Can't for the life of him correctly cast "Protection from Sunlight"_
+
+Affiliations: _Deep Ford College_ (Student)
+
+Species: _Vampire_
 
 # NPCs
 
