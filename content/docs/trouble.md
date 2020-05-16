@@ -4,7 +4,7 @@
 
 -----
 
-> There’s been a series of murders in a nearby Appalachian village and it’s starting to look like there may be a rogue werewolf making a nuisance of themselves.  The g-persons are standing by, but because a single werewolf acting alone requires only a relatively routine intervention, Professor Netrin from the School of Containment Logistics has negotiated to have the government hang back while he organizes a work-study.  Beyond a Maymester credit-hour and a solid line for a resume, student volunteers are entered into a raffle for a new Chromebook.
+> There’s been a series of murders in a nearby Appalachian village and it’s starting to look like there may be a rogue werewolf making a nuisance of themselves.  The g-persons are standing by, but because a single werewolf acting alone requires only a relatively routine intervention, Professor Netrin from the Department of Containment Logistics has negotiated to have the government hang back while he organizes a work-study.  Beyond a Maymester credit-hour and a solid line for a resume, student volunteers are entered into a raffle for a new Chromebook.
 
 -----
 
