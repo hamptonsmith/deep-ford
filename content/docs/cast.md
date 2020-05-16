@@ -47,7 +47,7 @@ Affiliations: _Chemistry Club_ (Member)
 
 Nobody's seen her in a while
 
-## Chad Bown
+## Chad Bowen
 Bodybuilding ifrit
 
 _Tiresomely positive_
