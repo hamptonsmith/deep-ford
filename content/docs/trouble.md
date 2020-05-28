@@ -4,7 +4,7 @@
 
 -----
 
-> There’s been a series of murders in a nearby Appalachian village and it’s starting to look like there may be a rogue werewolf making a nuisance of themselves.  The g-persons are standing by, but because a single werewolf acting alone requires only a relatively routine intervention, Professor Netrin from the Department of Containment Logistics has negotiated to have the government hang back while he organizes a work-study.  Beyond a Maymester credit-hour and a solid line for a resume, student volunteers are entered into a raffle for a new Chromebook.
+> What was supposed to be a werewolf hunt instead erased Morton, NC.  It's good that the murders stopped or whatever, but the question remains what exactly the cultists were up to.  Professor Netrin and Ethan Craig have established a joint research project with Meg Owen's lab in the Department of Arcana to study some of the paraphernalia recovered from their shrine.  Student researchers are needed to translate texts, catalog stone icons, and keep the artifacts... calm.  Those with shellfish allergies or a fear of boundless otherworldly vistas need not apply.  Experience cleaning cat hair out of human organs strongly preferred.
 
 -----
 
